@@ -1,5 +1,5 @@
 <h1>Projeto-Convert-Money</h1>
-<h2>Este projeto, executado no Dev Club, ofereceu uma valiosa oportunidade para aplicar e aprimorar minhas habilidades em HTML, CSS e JavaScript."</h2>
+<h2>Este projeto, executado no Dev Club, ofereceu uma valiosa oportunidade para aplicar e aprimorar minhas habilidades em HTML, CSS e JavaScript.</h2>
 <br>
 <h2>Linguagens aplicadas</h2>
 <br>
